@@ -1,4 +1,6 @@
 # Simple ping utility written in Go
+![Go](https://github.com/progiv/pinger/workflows/Go/badge.svg?branch=master)
+
 Build:
 ```
 go build
